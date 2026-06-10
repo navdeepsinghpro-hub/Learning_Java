@@ -1,3 +1,4 @@
+package DAY_01;
 public class add {
     public static void main(String[] args) {
         int a =2;

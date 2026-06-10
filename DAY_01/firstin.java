@@ -1,3 +1,4 @@
+package DAY_01;
 import java.util.*;
 public class firstin {
     public static void main(String[] args) {
