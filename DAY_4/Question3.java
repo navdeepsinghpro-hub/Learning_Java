@@ -7,11 +7,14 @@ public class Question3 {
         float P = sc.nextFloat();
         System.out.print("Enter annual intrest rate: ");
         float R = sc.nextFloat();
-        System.out.print("Enter time in (Years)");
+        System.out.print("Enter time in (Years): ");
         float T = sc.nextFloat();
 
         float SI = (P*R*T)/100;
-        System.out.println("Total simple intrest: " +SI);
+        System.out.println("Simple intrest: " +SI);
+
+        float MI = SI+P;
+        System.out.println("Maturity amount: " + MI);
 
         sc.close();
     }

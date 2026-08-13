@@ -4,15 +4,15 @@ public class Quection2 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter price of p1: ");
-        float p1 = sc.nextInt();
+        float p1 = sc.nextFloat();
         System.out.print("Enter quantity of q1: ");
         int q1 = sc.nextInt();
         System.out.print("Enter price of p2: ");
-        float p2 = sc.nextInt();
+        float p2 = sc.nextFloat();
         System.out.print("Enter qualntity of q2: ");
         int q2 = sc.nextInt();
         System.out.print("Enter price of p3: ");
-        float p3 = sc.nextInt();
+        float p3 = sc.nextFloat();
         System.out.print("Enter qualntity of q3: ");
         int q3 = sc.nextInt();
 
