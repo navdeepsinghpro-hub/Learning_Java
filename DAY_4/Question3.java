@@ -1,3 +1,5 @@
+// A bank customer wants to calculate the maturity amount of a fixed deposit. Take principal amount, annual interest rate, and time in years from the user. Calculate simple interest and maturity amount. Formula: SI = (P × R × T) / 100 
+
 package DAY_4;
 import java.util.Scanner;
 public class Question3 {

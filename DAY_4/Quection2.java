@@ -1,3 +1,5 @@
+// A shopkeeper wants to prepare a bill. Take the price and quantity of three different products from the user. Calculate the cost of each product and the final bill amount. Formula: Cost = Price × Quantity
+
 package DAY_4;
 import java.util.Scanner;
 public class Quection2 {

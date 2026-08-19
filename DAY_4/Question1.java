@@ -1,3 +1,5 @@
+//  A student wants to calculate his total marks and percentage. Take marks obtained in 5 subjects and their maximum marks from the user. Calculate total marks and percentage. Formula: Percentage = (Total Marks / Maximum Marks) × 100 
+
 package DAY_4;
 import java.util.Scanner;
 public class Question1 {
