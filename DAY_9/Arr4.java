@@ -28,7 +28,5 @@ public class Arr4 {
 
         System.out.println("Largr = " + large);
         System.out.println("second = "+ second);
-
-        sc.close();
     }
 }
